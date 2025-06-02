@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Alignment Breach.sln"
+    "dotnet.defaultSolution": "Alignment-Breach.sln"
 }
